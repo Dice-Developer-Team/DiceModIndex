@@ -1,0 +1,10 @@
+{
+    "PC_Slots":{
+        "title":"角色卡栏位扩展",
+        "ver":"1.0.0",
+        "author":"安研色Shiki",
+        "dice_build":607,
+        "repo":"https://ghproxy.com/https://github.com/mystringEmpty/PC_Slots.git",
+        "brief":"角色卡栏位扩展（状态栏、物品栏、法术栏、专长栏、笔记栏等）"
+    }
+}
