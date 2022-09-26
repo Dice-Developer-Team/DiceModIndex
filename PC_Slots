@@ -4,6 +4,7 @@
     "author":"安研色Shiki",
     "dice_build":607,
     "repo":"https://ghproxy.com/https://github.com/mystringEmpty/PC_Slots.git",
+	"pkg":"https://ghproxy.com/https://github.com/Dice-Developer-Team/DiceModIndex/releases/download/official/PC_Slots.zip",
     "brief":"角色卡栏位扩展（状态栏、物品栏、法术栏、专长栏、笔记栏等）",
     "comment":"",
     "helpdoc":{
