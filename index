@@ -23,13 +23,23 @@
             "brief": "好感互动模块，包含好感读写、编辑、成长等"
         },
         {
-            "name": "DiceMaidCounter",
-            "title": "色子女仆·柜台骰娘",
-            "ver": "0.1.0(1)",
-            "author": "安研色Shiki",
-            "dice_build": 636,
-            "repo": "https://ghproxy.com/https://github.com/mystringEmpty/DiceMaidCounter.git",
-            "brief": "货币体系、卡券、商店机制"
+            "title":"开发工具",
+            "ver":"0.2.0(2)",
+            "author":"安研色Shiki",
+            "dice_build":640,
+            "repo":"https://gitee.com/dicemaid/dev-tool.git",
+            "pkg":"",
+            "brief":"脚本在线调试工具、性能测试"
+        },
+        {
+            "name": "HelloLua",
+            "title":"欢迎使用Lua",
+            "ver":"0.1.0(1)",
+            "author":"安研色Shiki",
+            "dice_build":638,
+            "repo":"https://gitee.com/dicemaid/hello_lua.git",
+            "pkg":"",
+            "brief":"入门向Lua开发样例"
         }
     ]
 }

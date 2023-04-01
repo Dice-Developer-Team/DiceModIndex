@@ -1,0 +1,12 @@
+{
+    "title":"欢迎使用Lua",
+    "ver":"0.1.0(1)",
+    "author":"安研色Shiki",
+    "dice_build":638,
+    "repo":"https://gitee.com/dicemaid/hello_lua.git",
+	"pkg":"",
+    "brief":"入门向Lua开发样例",
+    "comment":"descriptor.json并非mod必须，只在Mod安装时有效。请在正式运行时卸载本mod以免影响。",
+    "helpdoc":{
+    }
+}
