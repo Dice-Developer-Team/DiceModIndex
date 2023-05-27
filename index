@@ -1,6 +1,6 @@
 {
     "msg": "success",
-    "code": "0",
+    "code": 0,
     "data": [
         {
             "name": "PC_Slots",
@@ -24,22 +24,22 @@
         },
         {
             "title":"开发工具",
-            "ver":"0.2.0(2)",
+            "ver":"0.3.0(3)",
             "author":"安研色Shiki",
             "dice_build":640,
             "repo":"https://gitee.com/dicemaid/dev-tool.git",
             "pkg":"",
-            "brief":"脚本在线调试工具、性能测试"
+            "brief":"lua/js/py脚本在线调试工具、性能测试"
         },
         {
             "name": "HelloLua",
-            "title":"欢迎使用Lua",
-            "ver":"0.1.0(1)",
-            "author":"安研色Shiki",
-            "dice_build":638,
-            "repo":"https://gitee.com/dicemaid/hello_lua.git",
-            "pkg":"",
-            "brief":"入门向Lua开发样例"
+            "title": "欢迎使用Lua",
+            "ver": "0.1.0(1)",
+            "author": "安研色Shiki",
+            "dice_build": 638,
+            "repo": "https://gitee.com/dicemaid/hello_lua.git",
+            "pkg": "",
+            "brief": "入门向Lua开发样例"
         }
     ]
 }
