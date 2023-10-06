@@ -1,0 +1,11 @@
+{
+    "title":"COC7-西藏诡秘",
+    "ver":"0.2.0(2)",
+    "author":"安研色Shiki",
+    "dice_build":652,
+    "repo":"https://gitee.com/dicemaid/coc7-secrets_of_tibet.git",
+	"brief":"COC7规则扩展《西藏诡秘Secrets of Tibet》\n请使用 .rules 西藏职业/西藏技能/西藏僧侣法术/西藏武器 获取相关索引",
+    "helpdoc":{
+        "西藏诡秘":"COC7规则扩展《西藏诡秘Secrets of Tibet》\n相关条目参见 .rules 西藏职业/西藏技能/西藏僧侣法术/西藏武器"
+    }
+}

@@ -13,6 +13,15 @@
             "brief": "角色卡栏位扩展（状态栏、物品栏、法术栏、专长栏、笔记栏等）"
         },
         {
+            "name": "COC7-Tibet",
+            "title": "COC7-西藏诡秘",
+            "ver": "0.2.0(2)",
+            "author": "安研色Shiki",
+            "dice_build": 652,
+            "repo": "https://gitee.com/dicemaid/coc7-secrets_of_tibet.git",
+            "brief": "COC7规则扩展《西藏诡秘Secrets of Tibet》\n请使用 .rules 西藏职业/西藏技能/西藏僧侣法术/西藏武器 获取相关索引"
+        },
+        {
             "name": "DiceFavor",
             "title": "恋色LoveDice",
             "ver": "1.0.7(8)",
@@ -23,13 +32,13 @@
             "brief": "好感互动模块，包含好感读写、编辑、成长等"
         },
         {
-            "title":"开发工具",
-            "ver":"0.3.0(3)",
-            "author":"安研色Shiki",
-            "dice_build":640,
-            "repo":"https://gitee.com/dicemaid/dev-tool.git",
-            "pkg":"",
-            "brief":"lua/js/py脚本在线调试工具、性能测试"
+            "title": "开发工具",
+            "ver": "0.3.0(3)",
+            "author": "安研色Shiki",
+            "dice_build": 640,
+            "repo": "https://gitee.com/dicemaid/dev-tool.git",
+            "pkg": "",
+            "brief": "lua/js/py脚本在线调试工具、性能测试"
         },
         {
             "name": "HelloLua",
