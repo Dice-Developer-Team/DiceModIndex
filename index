@@ -8,8 +8,8 @@
             "ver": "1.0.0",
             "author": "安研色Shiki",
             "dice_build": 607,
-            "repo": "https://ghproxy.com/https://github.com/mystringEmpty/PC_Slots.git",
-            "pkg": "https://ghproxy.com/https://github.com/Dice-Developer-Team/DiceModIndex/releases/download/official/PC_Slots.zip",
+            "repo": "https://mirror.ghproxy.com/https://github.com/mystringEmpty/PC_Slots.git",
+            "pkg": "https://mirror.ghproxy.com/https://github.com/Dice-Developer-Team/DiceModIndex/releases/download/official/PC_Slots.zip",
             "brief": "角色卡栏位扩展（状态栏、物品栏、法术栏、专长栏、笔记栏等）"
         },
         {
@@ -27,8 +27,8 @@
             "ver": "1.0.7(8)",
             "author": "安研色Shiki",
             "dice_build": 629,
-            "repo": "https://ghproxy.com/https://github.com/mystringEmpty/DiceFavor.git",
-            "pkg": "https://ghproxy.com/https://github.com/Dice-Developer-Team/DiceModIndex/releases/download/favor/DiceFavor.zip",
+            "repo": "https://mirror.ghproxy.com/https://github.com/mystringEmpty/DiceFavor.git",
+            "pkg": "https://mirror.ghproxy.com/https://github.com/Dice-Developer-Team/DiceModIndex/releases/download/favor/DiceFavor.zip",
             "brief": "好感互动模块，包含好感读写、编辑、成长等"
         },
         {

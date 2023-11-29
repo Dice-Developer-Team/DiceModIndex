@@ -3,7 +3,7 @@
     "ver":"0.1.0(1)",
     "author":"安研色Shiki",
     "dice_build":636,
-    "repo":"https://ghproxy.com/https://github.com/mystringEmpty/DiceMaidCounter.git",
+    "repo":"https://mirror.ghproxy.com/https://github.com/mystringEmpty/DiceMaidCounter.git",
     "brief":"货币体系、卡券、商店机制",
     "comment":"",
     "desc":"提供奖励积分和充值点券两种货币体系",
