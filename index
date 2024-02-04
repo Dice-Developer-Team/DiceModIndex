@@ -13,6 +13,15 @@
             "brief": "角色卡栏位扩展（状态栏、物品栏、法术栏、专长栏、笔记栏等）"
         },
         {
+            "name": "COC7-TRPG",
+            "title":"COC7扩展",
+            "ver":"0.1.0",
+            "author":"安研色Shiki",
+            "dice_build":652,
+            "repo":"https://gitee.com/dicemaid/COC7-TRPG.git",
+	        "brief":"COC7补充指令、角色卡机制及扩展内容"
+        },
+        {
             "name": "COC7-Tibet",
             "title": "COC7-西藏诡秘",
             "ver": "0.2.0(2)",
