@@ -41,6 +41,15 @@
             "brief": "好感互动模块，包含好感读写、编辑、成长等"
         },
         {
+            "name": "DiceMaid-Parlor",
+            "title":"色子女仆·客厅骰娘",
+            "author":"安研色Shiki",
+            "ver":"0.1.0(1)",
+            "dice_build":618,
+            "repo": "https://mirror.ghproxy.com/https://github.com/mystringEmpty/DiceMaid-Parlor.git",
+            "brief":"作为群管理时，支持执行清理群内潜水等操作"
+        },
+        {
             "name": "DevTool",
             "title": "开发工具",
             "ver": "0.3.0(3)",

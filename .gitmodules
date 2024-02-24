@@ -1,0 +1,6 @@
+[submodule "COC7-TRPG"]
+	path = COC7-TRPG
+	url = https://gitee.com/dicemaid/COC7-TRPG.git
+[submodule "DiceMaid-Parlor"]
+	path = DiceMaid-Parlor
+	url = https://github.com/mystringEmpty/DiceMaid-Parlor.git
