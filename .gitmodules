@@ -1,6 +1,18 @@
+[submodule "PC_Slots"]
+	path = PC_Slots
+	url = https://github.com/mystringEmpty/PC_Slots.git
 [submodule "COC7-TRPG"]
 	path = COC7-TRPG
 	url = https://gitee.com/dicemaid/COC7-TRPG.git
+[submodule "COC7-Tibet"]
+	path = COC7-Tibet
+	url = https://gitee.com/dicemaid/COC7-Tibet.git
+[submodule "DND-5E"]
+	path = DND-5E
+	url = https://gitee.com/dicemaid/DND-5E.git
+[submodule "DiceFavor"]
+	path = DiceFavor
+	url = https://github.com/mystringEmpty/DiceFavor.git
 [submodule "DiceMaid-Parlor"]
 	path = DiceMaid-Parlor
 	url = https://github.com/mystringEmpty/DiceMaid-Parlor.git

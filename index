@@ -31,6 +31,15 @@
             "brief": "COC7规则扩展《西藏诡秘Secrets of Tibet》\n请使用 .rules 西藏职业/西藏技能/西藏僧侣法术/西藏武器 获取相关索引"
         },
         {
+            "name": "DND-5E",
+            "title":"DND5E扩展",
+            "ver":"0.1.0(1)",
+            "author":"安研色Shiki",
+            "dice_build":655,
+            "repo":"https://gitee.com/dicemaid/DND-5E.git",
+            "brief":"DND5E补充指令及扩展内容，交流群913893229"
+        },
+        {
             "name": "DiceFavor",
             "title": "恋色LoveDice",
             "ver": "1.0.7(8)",
