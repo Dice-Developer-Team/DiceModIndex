@@ -14,12 +14,12 @@
         },
         {
             "name": "COC7-TRPG",
-            "title":"COC7扩展",
-            "ver":"0.1.0",
-            "author":"安研色Shiki",
-            "dice_build":652,
-            "repo":"https://gitee.com/dicemaid/COC7-TRPG.git",
-	        "brief":"COC7补充指令、角色卡机制及扩展内容"
+            "title": "COC7扩展",
+            "ver": "0.4.1(8)",
+            "author": "安研色Shiki",
+            "dice_build": 655,
+            "repo": "https://gitee.com/dicemaid/COC7-TRPG.git",
+            "brief": "COC7补充指令及扩展内容，交流群913893229"
         },
         {
             "name": "COC7-Tibet",
@@ -32,12 +32,22 @@
         },
         {
             "name": "DND-5E",
-            "title":"DND5E扩展",
-            "ver":"0.1.0(1)",
-            "author":"安研色Shiki",
-            "dice_build":655,
-            "repo":"https://gitee.com/dicemaid/DND-5E.git",
-            "brief":"DND5E补充指令及扩展内容，交流群913893229"
+            "title": "DND5E扩展",
+            "ver": "0.1.1(2)",
+            "author": "安研色Shiki",
+            "dice_build": 655,
+            "repo": "https://gitee.com/dicemaid/DND-5E.git",
+            "brief": "DND5E补充指令.team及扩展内容，交流群913893229"
+        },
+        {
+            "name": "Maid-TRPG",
+            "title": "女仆TRPG",
+            "ver": "0.2.0(2)",
+            "author": "安研色Shiki",
+            "dice_build": 657,
+            "repo": "https://gitee.com/dicemaid/Maid-TRPG.git",
+            "brief": "《女仆RPG》跑团规则，汉化测试群:943026239",
+            "comment": "本mod当前用于规则集功能测试，已实现.team/.sn"
         },
         {
             "name": "DiceFavor",
@@ -51,12 +61,12 @@
         },
         {
             "name": "DiceMaid-Parlor",
-            "title":"色子女仆·客厅骰娘",
-            "author":"安研色Shiki",
-            "ver":"0.1.0(1)",
-            "dice_build":618,
+            "title": "色子女仆·客厅骰娘",
+            "author": "安研色Shiki",
+            "ver": "0.1.0(1)",
+            "dice_build": 618,
             "repo": "https://mirror.ghproxy.com/https://github.com/mystringEmpty/DiceMaid-Parlor.git",
-            "brief":"作为群管理时，支持执行清理群内潜水等操作"
+            "brief": "作为群管理时，支持执行清理群内潜水等操作"
         },
         {
             "name": "DevTool",
