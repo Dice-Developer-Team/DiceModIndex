@@ -15,7 +15,7 @@
         {
             "name": "COC7-TRPG",
             "title": "COC7扩展",
-            "ver": "0.4.1(8)",
+            "ver": "0.4.2(9)",
             "author": "安研色Shiki",
             "dice_build": 655,
             "repo": "https://gitee.com/dicemaid/COC7-TRPG.git",
@@ -33,7 +33,7 @@
         {
             "name": "DND-5E",
             "title": "DND5E扩展",
-            "ver": "0.1.1(2)",
+            "ver": "0.1.2(3)",
             "author": "安研色Shiki",
             "dice_build": 655,
             "repo": "https://gitee.com/dicemaid/DND-5E.git",
@@ -63,7 +63,7 @@
             "name": "DiceMaid-Parlor",
             "title": "色子女仆·客厅骰娘",
             "author": "安研色Shiki",
-            "ver": "0.1.0(1)",
+            "ver": "0.1.1(2)",
             "dice_build": 618,
             "repo": "https://mirror.ghproxy.com/https://github.com/mystringEmpty/DiceMaid-Parlor.git",
             "brief": "作为群管理时，支持执行清理群内潜水等操作"

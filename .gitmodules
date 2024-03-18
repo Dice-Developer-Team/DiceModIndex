@@ -19,3 +19,9 @@
 [submodule "DiceMaid-Parlor"]
 	path = DiceMaid-Parlor
 	url = https://github.com/mystringEmpty/DiceMaid-Parlor.git
+[submodule "dev-tool"]
+	path = dev-tool
+	url = https://gitee.com/dicemaid/dev-tool.git
+[submodule "hello-lua"]
+	path = hello-lua
+	url = https://gitee.com/dicemaid/hello-lua.git
