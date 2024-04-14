@@ -15,11 +15,11 @@
         {
             "name": "COC7-TRPG",
             "title": "COC7扩展",
-            "ver": "0.4.2(9)",
+            "ver": "0.6.0(12)",
             "author": "安研色Shiki",
             "dice_build": 655,
             "repo": "https://gitee.com/dicemaid/COC7-TRPG.git",
-            "brief": "COC7补充指令及扩展内容，交流群913893229"
+	        "brief":"COC7补充指令.team/.sn及扩展内容，交流群913893229"
         },
         {
             "name": "COC7-Tibet",
