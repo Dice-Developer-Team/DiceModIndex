@@ -25,3 +25,6 @@
 [submodule "hello-lua"]
 	path = hello-lua
 	url = https://gitee.com/dicemaid/hello-lua.git
+[submodule "DiceOfLewdity"]
+	path = DiceOfLewdity
+	url = https://gitee.com/dicemaid/DiceOfLewdity.git
