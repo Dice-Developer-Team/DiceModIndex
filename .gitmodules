@@ -10,6 +10,9 @@
 [submodule "DND-5E"]
 	path = DND-5E
 	url = https://gitee.com/dicemaid/DND-5E.git
+[submodule "BRP-TRPG"]
+	path = BRP-TRPG
+	url = https://gitee.com/dicemaid/BRP-TRPG.git
 [submodule "Maid-TRPG"]
 	path = Maid-TRPG
 	url = https://gitee.com/dicemaid/Maid-TRPG.git
